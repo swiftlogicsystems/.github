@@ -7,7 +7,7 @@ SwiftLogic Systems is a high-performance systems engineering firm specializing i
 ### What We Build
 We bridge the gap between high-level application logic and the Linux Kernel. Our focus is on building tools and systems where every CPU cycle and every context switch is accounted for.
 
-*   **[SwiftTopology](https://github.com/swiftlogic/swifttopology):** An interactive, real-time hardware topology explorer powered by eBPF and Ratatui.
+*   **[SwiftTopology](https://github.com/swiftlogicsystems/swifttopology):** An interactive, real-time hardware topology explorer powered by eBPF and Ratatui.
 *   **Performance Labs:** A collection of research into memory-level parallelism (MLP), cache locality, and kernel-boundary optimization.
 
 ### Our Philosophy
